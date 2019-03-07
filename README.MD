@@ -3,4 +3,4 @@ Para a execução do mesmo basta importar o projeto com o Android Studio e aguar
 O projeto foi construido com base no Mockup do desafio-mobile.
 Segue junto a este projeto um APK para teste em seu dispositívo e prints do projeto rodando em um dispositivo Android real.
 
-![Alt text](images/serial-monitor.png?raw=true)
+![Alt text](print.png?raw=true)
